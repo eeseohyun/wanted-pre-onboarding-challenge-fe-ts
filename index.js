@@ -1,4 +1,7 @@
-/** @function createTodo
+/**
+ * 할 일을 추가할 수 있다.
+ * 내용없이 추가할 수 없다.
+ * @function createTodo
  * @param {string} content 내용
  * @param {string} category 카테고리
  * @param {string[]} [tag] 태그들
