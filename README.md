@@ -5,6 +5,7 @@
   <summary>1차 사전과제</summary>
   
   <div markdown="1">
+    
 >요구 사항을 구현하지 않고 설계만합니다.
 
 - Todo 앱을 JSDoc으로 문서화하는 챌린지 과제입니다.
@@ -82,8 +83,7 @@ Item {
   <summary>2차 과제</summary>
   
   <div markdown="2">
-  ## 챌린지 과제 가이드
-
+    
 >요구 사항을 구현하지 않고 설계만합니다.
 
 - Todo 앱을 Interface로 설계하고 모델링하는 챌린지 과제입니다.
